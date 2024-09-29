@@ -1342,7 +1342,7 @@
   }
   .cid-upLgClaKOP {
     display: flex;
-    background-image: url("/image.png");
+    background-image: url("image.png");
   }
   .cid-upLgClaKOP .mbr-overlay {
     background-color: #000000;
